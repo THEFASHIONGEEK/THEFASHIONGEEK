@@ -2,7 +2,7 @@ Hi there, I'm Hemanth! 👋
 
 A self-taught Computer vision Engineer from India.
 
-👨🏻‍💻 About Me
+# 👨🏻‍💻 About Me
 
 🌱   I’m currently Computer Vision 
 
@@ -12,9 +12,10 @@ A self-taught Computer vision Engineer from India.
 
 ✍️   I also write Blog
 
-🛠 Tech Stack
+# 🛠 Tech Stack
 
 💻   Python 
+
 🔧   Git | Pytorch | Pandas | Numpy
 
 ![Hemanth's github stats](https://github-readme-stats.vercel.app/api?username=THEFASHIONGEEK&show_icons=true&theme=radical)
