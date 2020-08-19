@@ -4,13 +4,13 @@ A self-taught Computer vision Engineer from India.
 
 # 👨🏻‍💻 About Me
 
-🌱   I’m currently Computer Vision 
+🌱   I’m currently exploring Computer Vision.
 
 🎓   Studied Machine learning and Artifical Intelligence from NIT Warangal.
 
 🤔   I enjoy contributing to Opensource projects
 
-✍️   I also write Blog
+✍️   I also write ![Blogs](https://medium.com/@akulahemanth)
 
 # 🛠 Tech Stack
 
