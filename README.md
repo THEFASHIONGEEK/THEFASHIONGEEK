@@ -10,7 +10,7 @@ A self-taught Computer vision Engineer from India.
 
 🤔   I enjoy contributing to Opensource projects
 
-✍️   I also write ![Blogs](https://medium.com/@akulahemanth)
+✍️   I also write [Blogs](https://medium.com/@akulahemanth)
 
 # 🛠 Tech Stack
 
