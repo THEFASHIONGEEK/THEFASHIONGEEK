@@ -4,11 +4,12 @@ A self-taught Computer vision Engineer from India.
 
 👨🏻‍💻 About Me
 
-💼   Working in NLP at Infosys Limited, Pune.
-🔭   I’m currently working on Eye Excercise Application
 🌱   I’m currently Computer Vision 
-🎓   Studying Machine Learning using AWS and Azure on Udacity
+
+🎓   Studied Machine learning and Artifical Intelligence from NIT Warangal.
+
 🤔   I enjoy contributing to Opensource projects
+
 ✍️   I also write Blog
 
 🛠 Tech Stack
